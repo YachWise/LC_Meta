@@ -76,3 +76,11 @@ Explanation:
 
 **Scope Questions**
 
+Ask about the bounds of the problem
+Ask whether or not there is always going to be a valid path provided
+Ask whether there is the possibility of returning "\/" or something along those lines 
+
+**Space Time Complexity**
+The Space complexity is O(n) due to the constraints of the path
+The Time complexity is O(n) due to the split function, join function, and the iteration. 
+
